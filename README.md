@@ -14,21 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓 Computer & Communication Engineer
-- 🔐 Aspiring Cybersecurity Professional with a strong interest in SOC Operations & Incident Response
-- 🌐 Passionate about Networking, Threat Detection and Defensive Security
+- 🎓 MSc in Computer & Communication Engineering (Integrated Master), University of Thessaly, Greece
+- 🔐 Entry-level IT & Cybersecurity professional with interests in SOC Operations, Incident Response, and foundational offensive security concepts
+- 🌐 Passionate about Networking, System Security, Threat Detection, Defensive Technologies, and offensive security basics
 
 ---
 
 ## 🧠 About Me
-- 🔍 Actively building hands-on skills in **cybersecurity monitoring and incident response**
+- 🔍 Actively building hands-on skills in **IT systems, networking, cybersecurity monitoring, and basic offensive security techniques**
 - 🧪 Regularly completing **TryHackMe labs** with a focus on:
   - SOC fundamentals
   - Blue team operations
-  - Network security
+  - Network security & monitoring
   - Incident detection & response
-- 📡 Solid foundation in **computer networks & communication systems**
-- 🎯 Career goal: **SOC Analyst / Incident Response Analyst**
+  - Introductory offensive security concepts
+- 📡 Solid foundation in **computer networks, communication systems, and IT infrastructure**
+- 🎯 Career interests: **Cybersecurity (SOC / Incident Response)** and **entry-level IT or Network roles**
+- 🧭 Long-term goal: Grow into advanced cybersecurity roles, including penetration testing, after building strong defensive and IT fundamentals
 
 ---
 
@@ -38,13 +40,14 @@ Here are some ideas to get you started:
 - TCP/IP, OSI Model  
 - Routing & Switching  
 - DNS, DHCP, HTTP/HTTPS  
-- Network traffic analysis  
+- Network traffic analysis & troubleshooting  
 
 ### 🔐 Cybersecurity
 - SOC fundamentals  
 - Incident Response lifecycle  
 - Log analysis & alert investigation  
 - Threat detection basics  
+- Basic offensive security concepts  
 
 ### 🧰 Tools & Platforms
 - TryHackMe  
@@ -54,32 +57,33 @@ Here are some ideas to get you started:
 - Git & GitHub  
 
 ### 💻 Operating Systems
-- Linux/Kali Linux  
+- Linux / Kali Linux  
 - Windows  
 
 ---
 
 ## 🧪 Hands-On Practice
 - Continuous lab-based learning on **TryHackMe**
-- Analyzing network traffic and security events
+- Analyzing network traffic, logs, and security events
 - Practicing real-world attack & defense scenarios
-- Building practical skills beyond theory
+- Applying controlled offensive techniques to better understand attacks and strengthen defensive strategies
 
 ---
 
 ## 🚀 What I’m Currently Working On
-- Expanding knowledge of **SOC environments**
-- Improving **incident investigation & response** skills
-- Learning **SIEM concepts & log correlation**
-- Strengthening **network security** expertise
+- Expanding knowledge of **SOC and IT operational environments**
+- Improving **incident investigation, troubleshooting, and response skills**
+- Learning **SIEM concepts, log correlation, and monitoring**
+- Strengthening **networking, system security, and offensive security fundamentals**
 
 ---
 
 ## 🎯 Career Goals
-- 🔐 Start a career in **Cybersecurity**
-- 🟦 Work as a **SOC Analyst / Incident Response Analyst**
-- 📊 Grow as a cybersecurity professional
-- 🌍 Contribute to cybersecurity-focused projects
+- 🔐 Start a career in **Cybersecurity or IT**
+- 🟦 Work in **SOC, Incident Response, IT Support, NOC, or Network roles**
+- 📊 Grow as a well-rounded security professional with strong defensive foundations and exposure to offensive security
+- 🧭 Long-term interest in **penetration testing** and advanced cybersecurity roles
+- 🌍 Contribute to technology and security-focused projects
 
 ---
 
