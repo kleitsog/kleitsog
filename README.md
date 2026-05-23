@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 MSc in Computer & Communication Engineering (Integrated Master), University of Thessaly, Greece
+- 🔐 CompTIA Security+ Certified
 - 🔐 Entry-level IT & Cybersecurity professional with interests in SOC Operations, Incident Response, and foundational offensive security concepts
 - 🌐 Passionate about Networking, System Security, Threat Detection, Defensive Technologies, and offensive security basics
 
@@ -22,6 +23,7 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 - 🔍 Actively building hands-on skills in **IT systems, networking, cybersecurity monitoring, and basic offensive security techniques**
+- * 🛡️ **Certified:** CompTIA Security+ certified, validating global foundational knowledge in security principles, threats, and network defense.
 - 🧪 Regularly completing **TryHackMe labs** with a focus on:
   - SOC fundamentals
   - Blue team operations
