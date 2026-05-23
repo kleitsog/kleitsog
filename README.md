@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 - 🔍 Actively building hands-on skills in **IT systems, networking, cybersecurity monitoring, and basic offensive security techniques**
-- * 🛡️ **Certified:** CompTIA Security+ certified, validating global foundational knowledge in security principles, threats, and network defense.
+-  🛡️ Certified: **CompTIA Security+ certified**, validating global foundational knowledge in security principles, threats, and network defense
 - 🧪 Regularly completing **TryHackMe labs** with a focus on:
   - SOC fundamentals
   - Blue team operations
