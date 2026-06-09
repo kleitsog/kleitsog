@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 MSc in Computer & Communication Engineering (Integrated Master), University of Thessaly, Greece
-- 🔐 CompTIA Security+ Certified
 - 🔐 Entry-level IT & Cybersecurity professional with interests in SOC Operations, Incident Response, and foundational offensive security concepts
+- 🔐 CompTIA Security+ Certified
+- 🔐 Google Cybersecurity Professional Certificate
 - 🌐 Passionate about Networking, System Security, Threat Detection, Defensive Technologies, and offensive security basics
 
 ---
